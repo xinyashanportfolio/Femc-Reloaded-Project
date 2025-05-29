@@ -1,0 +1,10 @@
+# Kotone Dorm Scene – Edited Dialogue
+
+// Scene ID: 203
+// Contributor: Xinya Shan
+
+KOTONE:
+"Looks like this is where my journey truly begins."
+
+MITSURU:
+"You're part of this team now. We believe in you."

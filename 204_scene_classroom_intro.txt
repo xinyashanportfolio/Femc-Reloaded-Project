@@ -1,0 +1,10 @@
+# Kotone Classroom Scene – Edited Dialogue
+
+// Scene ID: 204
+// Contributor: Xinya Shan
+
+KOTONE:
+"First day at school... I wonder if they already know who I am."
+
+YUKARI:
+"Don't stress too much. Just be yourself, Kotone."

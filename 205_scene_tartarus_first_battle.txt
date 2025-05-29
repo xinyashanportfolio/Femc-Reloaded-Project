@@ -1,0 +1,10 @@
+# Tartarus First Battle – Edited Dialogue
+
+// Scene ID: 205
+// Contributor: Xinya Shan
+
+KOTONE:
+"This place... it feels alive."
+
+JUNPEI:
+"Alive and ready to kill us. Stay sharp!"
