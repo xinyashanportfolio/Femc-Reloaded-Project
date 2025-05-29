@@ -1,0 +1,13 @@
+# Koromaru Interaction – Edited Dialogue
+
+// Scene ID: 206
+// Contributor: Xinya Shan
+
+KOTONE:
+"You're always watching over us, aren't you, Koromaru? You're more loyal than most humans."
+
+KOROMARU:
+*woof* (wags tail)
+
+KOTONE:
+"I'll make sure you're safe too. Promise."
